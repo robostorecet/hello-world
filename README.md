@@ -1,2 +1,3 @@
 # hello-world
-FIrst Git repo
+First Git repo
+This repo is created to learn git workflow.
